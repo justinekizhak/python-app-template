@@ -1,0 +1,8 @@
+{
+    "project_name": "Python Application",
+    "project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '-') }}",
+    "project_root": "{{ cookiecutter.project_name|lower|replace(' ', '_') }}",
+    "description": "A simple Python Application",
+    "author_name": "John Doe",
+    "author_email": "john@doe.com"
+}
