@@ -1,6 +1,6 @@
 # Python app template
 
-Created using https://cookiecutter.readthedocs.io/.
+Created using [Cookiecutter](https://cookiecutter.readthedocs.io/).
 
 ## Usage
 
