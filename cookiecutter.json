@@ -4,5 +4,6 @@
     "project_root": "{{ cookiecutter.project_name|lower|replace(' ', '_') }}",
     "description": "A simple Python Application",
     "author_name": "John Doe",
-    "author_email": "john@doe.com"
+    "author_email": "john@doe.com",
+    "license": "MIT"
 }
